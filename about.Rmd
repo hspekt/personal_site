@@ -2,4 +2,10 @@
 title: "About Me"
 ---
 
-Why I am awesome.
+- __Name:__ Harrison
+- __Ocupation:__ "Student"
+- __Hobbies:__ Stuff'n'Things. 
+
+Here is a super cool photo of me in front of Quentin the QE. 
+
+![](self.jpg)
